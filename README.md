@@ -1,4 +1,4 @@
-# StravaApp
+# StravaBackend
 
 _This is an application to have a different experience with your Strava workouts._
 
